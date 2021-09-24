@@ -3,6 +3,7 @@ classe _Usuário filha da classe _Cidadão & classe _Funcinário filha de classe
     A classe usuário herda da classe cidadão, sendo o usuário parte de
     uma organização.
     Na organização, o usuário pode ser um administrador ou um cliente.
+    A classe funcionário guarda informações sobre cidadãos que são funcionários.
 }
 
 classe _Cidadão 
