@@ -8,7 +8,7 @@ classe _Usuário filha da classe _Cidadão & classe _Funcinário filha de classe
 classe _Cidadão 
 # Classe cidadão, abstraí nome, sobrenome, cpf, rg, vacinado e salário
 início
-	var string nome;
+	  var string nome;
     var string sobrenome;
     var string rg;
     var string cpf;
